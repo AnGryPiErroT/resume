@@ -17,7 +17,7 @@
   </head>
   <body class="mybg">
     <div class="container">
-      <div class="row"><img src="images/TIN%20%281%29.png" class="img-fluid" alt="Tinnapop openbar"></div>
+      <div class="row"><img src="images/tin_01.png" class="img-fluid" alt="Tinnapop openbar"></div>
       <div class="row">
         <nav class="navbar navbar-expand-lg mybg2 rounded-4">
           <div class="container-fluid"> <a class="navbar-brand myfont-eng text-white">TINNAPOP</a>
@@ -48,7 +48,7 @@
           </div>
         </nav>
       </div>
-      <img src="images/109025.jpg" class="img-fluid rounded-4" alt="Tinnapop artwork1"><br>
+      <img src="images/art_01.jpg" class="img-fluid rounded-4" alt="Tinnapop artwork1"><br>
       <div> <button type="button" class="btn btn-primary float-end mybg2 myfont-eng"
           data-bs-toggle="modal" data-bs-target="#exampleModal"> Artwork
           information </button>
@@ -74,7 +74,7 @@
       </div>
       <br>
       <br>
-      <img src="images/109026.jpg" class="img-fluid rounded-4" alt="Tinnapop artwork2"><br>
+      <img src="images/art_02.jpg" class="img-fluid rounded-4" alt="Tinnapop artwork2"><br>
       <div> <button type="button" class="btn btn-primary float-end mybg2 myfont-eng"
           data-bs-toggle="modal" data-bs-target="#exampleModal2"> Artwork
           information </button>
@@ -99,7 +99,7 @@
       </div>
       <br>
       <br>
-      <img src="images/109027.jpg" class="img-fluid rounded-4" alt="Tinnapop artwork3"><br>
+      <img src="images/art_03.jpg" class="img-fluid rounded-4" alt="Tinnapop artwork3"><br>
       <div> <button type="button" class="btn btn-primary float-end mybg2 myfont-eng"
           data-bs-toggle="modal" data-bs-target="#exampleModal3"> Artwork
           information </button>
